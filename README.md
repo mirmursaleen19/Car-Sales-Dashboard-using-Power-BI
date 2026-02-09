@@ -1,9 +1,11 @@
+## Project Title
 🚗 Car Sales Dashboard – Power BI Project
-📌 Project Overview
+
+## 📌 Project Overview
 
 This project showcases an interactive Car Sales Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance across different car models, countries, deal sizes, and years. It enables business users to quickly identify trends, top-performing products, and revenue drivers for data-driven decision making.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze overall sales performance and revenue trends.
 
@@ -15,7 +17,7 @@ Visualize key performance indicators (KPIs).
 
 Build a clean and optimized data model.
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 Total Sales, Orders, and Customers KPIs
 
@@ -33,17 +35,17 @@ Interactive Filters and Slicers
 
 Star Schema Data Model
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 Microsoft Power BI Desktop
 
-DAX (Data Analysis Expressions)
+## DAX (Data Analysis Expressions)
 
 Excel / CSV Dataset
 
 Data Modeling & Visualization
 
-📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains transactional car sales data with the following fields:
 
@@ -71,7 +73,7 @@ Customer Name
 
 Vehicle Color
 
-📈 Key Insights
+## 📈 Key Insights
 
 Integra generated the highest revenue among all models.
 
@@ -83,7 +85,7 @@ Sales showed steady growth over the years.
 
 Certain colors and models perform better in specific regions.
 
-🧩 Data Model
+## 🧩 Data Model
 
 The data follows a Star Schema design:
 
@@ -91,7 +93,7 @@ Fact Table: Sales Transactions
 
 Dimension Tables: Product, Date, Customer, Country
 
-▶ How to Use This Project
+## ▶ How to Use This Project
 
 Download the Car_Sales_Dashboard.pbix file.
 
@@ -101,7 +103,7 @@ Refresh the dataset if required.
 
 Explore the dashboard using slicers and filters.
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add forecasting and trend analytics.
 
